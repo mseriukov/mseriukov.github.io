@@ -1,0 +1,1 @@
+Sitemap: http://lanyon.getpoole.com/sitemap.xml
