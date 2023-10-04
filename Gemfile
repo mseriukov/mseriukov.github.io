@@ -1,10 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-
 group :jekyll_plugins do
-  gem 'jekyll-sitemap'
-  gem 'jekyll-feed'
-  gem 'jekyll-seo-tag'
-  gem 'jekyll-paginate'
+  gem "jekyll-paginate", "~> 1.1.0"
+  gem "github-pages", "~> 228"
 end
